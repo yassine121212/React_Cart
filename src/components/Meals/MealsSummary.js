@@ -15,6 +15,7 @@ const MealsSummary =()=>{
           of course by experienced chefs!
         </p>
       </section>
+      
         
      );
 
